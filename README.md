@@ -1,2 +1,2 @@
 # arch.config
-something in .config
+配置备份

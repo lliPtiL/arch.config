@@ -5,7 +5,7 @@
 !.gitignore
 
 # whitelist everything in ./config/
-!nvim/
-!hypr/
-!waybar/
-!kitty/
+!nvim/**
+!hypr/**
+!waybar/**
+!kitty/**
